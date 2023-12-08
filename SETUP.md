@@ -1,5 +1,7 @@
 # Setup steps
 
+Note: Node version v14.18.1 was used for development. Please run the app using this Node version.
+
 1. ```cd into the root project folder```
 
 2. ```npm config set legacy-peer-deps true```
